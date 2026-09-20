@@ -14,7 +14,7 @@
 
 **1M1B × IBM SkillsBuild × AICTE · AI for Sustainability Virtual Internship**
 
-**Built by:** Shruti Halle · **College:** YOUR COLLEGE NAME
+**Built by:** Shruti Halle · **College:** SNDT Arts and Commerce College for Women,Pune
 
 [💼 LinkedIn](https://www.linkedin.com/in/shruti-halle) 
 
