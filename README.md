@@ -64,7 +64,7 @@ EduSense AI is a simple web app for **teachers, tutors and parents**. It does th
 | | | |
 |:---:|:---:|:---:|
 | <img src="1.jpg" alt="Home"><br>**Home**: what the app does | <img src="2.jpg" alt="Explore data"><br>**Explore Data**: overview of the data | <img src="3.jpg" alt="Data charts"><br>**Charts**: attendance, study time and grades |
-| <img src="4.jpg" alt="Grade distribution"><br>**Grade distribution**: at risk vs not at risk | <img src="5.jpg" alt="Relationships"><br>**Relationships**: what moves with grades | <img src="6.png" alt="Check a student"><br>**Check a Student**: enter a profile |
+| <img src="4.jpg" alt="Grade distribution"><br>**Grade distribution**: at risk vs not at risk | <img src="5.jpg" alt="Relationships"><br>**Relationships**: what moves with grades | <img src="6.jpg" alt="Check a student"><br>**Check a Student**: enter a profile |
 | <img src="7.jpg" alt="Risk result"><br>**Risk result**: gauge and main reasons | <img src="8.jpg" alt="Study plan"><br>**Study Plan**: a friendly 4-week plan | <img src="9.jpg" alt="Model performance"><br>**Model performance**: models compared |
 
 ## ✨ Features
