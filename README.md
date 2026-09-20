@@ -14,11 +14,11 @@
 
 **1M1B × IBM SkillsBuild × AICTE · AI for Sustainability Virtual Internship**
 
-**Built by:** YOUR NAME · **College:** YOUR COLLEGE NAME
+**Built by:** Shruti Halle · **College:** YOUR COLLEGE NAME
 
-[Live demo](#) · [Demo video](#) · [Report an issue](../../issues)
+[💼 LinkedIn](https://www.linkedin.com/in/shruti-halle) · [Report an issue](../../issues)
 
-<img src="assets/screenshots/01-home.png" alt="EduSense AI home page" width="900">
+<img src="screenshots/1.png" alt="EduSense AI home page" width="900">
 
 </div>
 
@@ -63,17 +63,11 @@ EduSense AI is a simple web app for **teachers, tutors and parents**. It does th
 
 ## 🖼️ Screenshots
 
-| | |
-|---|---|
-| <img src="assets/screenshots/01-home.png" alt="Home"><br>**Home**: what the app does in 3 easy steps | <img src="assets/screenshots/02-explore-data.png" alt="Explore data"><br>**Explore Data**: charts with plain-English notes |
-| <img src="assets/screenshots/03-model-comparison.png" alt="Model comparison"><br>**Model comparison**: two models, best one auto-picked | <img src="assets/screenshots/04-feature-importance.png" alt="Feature importance"><br>**Explainability**: what the model pays attention to |
-| <img src="assets/screenshots/05-risk-result.png" alt="Risk result"><br>**Check a Student**: risk gauge and main reasons | <img src="assets/screenshots/06-study-plan.png" alt="Study plan"><br>**Study Plan**: a friendly 4-week plan |
-| <img src="assets/screenshots/07-fairness.png" alt="Fairness"><br>**Fair and Safe AI**: group fairness checks | <img src="assets/screenshots/08-prompt-transparency.png" alt="Prompt transparency"><br>**Transparency**: see exactly what the AI is asked |
-
-<div align="center">
-<img src="assets/screenshots/09-mobile.png" alt="Mobile view" width="260"><br>
-<b>Works on phones too</b>
-</div>
+| | | |
+|:---:|:---:|:---:|
+| <img src="screenshots/1.png" alt="Home"><br>**Home**: what the app does | <img src="screenshots/2.png" alt="Explore data"><br>**Explore Data**: overview of the data | <img src="screenshots/3.png" alt="Data charts"><br>**Charts**: attendance, study time and grades |
+| <img src="screenshots/4.png" alt="Grade distribution"><br>**Grade distribution**: at risk vs not at risk | <img src="screenshots/5.png" alt="Relationships"><br>**Relationships**: what moves with grades | <img src="screenshots/6.png" alt="Check a student"><br>**Check a Student**: enter a profile |
+| <img src="screenshots/7.png" alt="Risk result"><br>**Risk result**: gauge and main reasons | <img src="screenshots/8.png" alt="Study plan"><br>**Study Plan**: a friendly 4-week plan | <img src="screenshots/9.png" alt="Model performance"><br>**Model performance**: models compared |
 
 ## ✨ Features
 
@@ -152,7 +146,7 @@ WATSONX_URL=https://us-south.ml.cloud.ibm.com
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-USERNAME/edusense-ai.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/edusense-ai.git
 cd edusense-ai
 
 # 2. (Optional) create a virtual environment
@@ -180,12 +174,12 @@ edusense-ai/
 ├── fairness.py          # Group fairness tables and summary
 ├── granite_client.py    # Safe prompt builder + AI study-plan boundary
 ├── requirements.txt
-├── student_mat.csv      # UCI Student Performance dataset (optional)
+├── student-mat.csv      # UCI Student Performance: Math (optional)
+├── student-por.csv      # UCI Student Performance: Portuguese (optional)
 ├── .streamlit/
 │   └── config.toml      # Theme and server settings
-└── assets/
-    ├── hero.png ...     # Optional app illustrations
-    └── screenshots/     # README screenshots (01 to 09)
+├── screenshots/         # README screenshots (1.png to 9.png)
+└── assets/              # Optional app illustrations (hero.png, step1.png ...)
 ```
 
 ## 🌍 Expected impact
@@ -211,6 +205,13 @@ edusense-ai/
 
 - Dataset: P. Cortez and A. Silva, *Student Performance*, UCI Machine Learning Repository.
 - 1M1B, IBM SkillsBuild and AICTE for the AI for Sustainability Virtual Internship.
+
+---
+
+## 👩‍💻 Author
+
+**Shruti Halle**: BCA graduate focused on data analytics and data engineering.
+Connect on [LinkedIn](https://www.linkedin.com/in/shruti-halle).
 
 ---
 
