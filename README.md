@@ -16,9 +16,7 @@
 
 **Built by:** Shruti Halle · **College:** YOUR COLLEGE NAME
 
-[💼 LinkedIn](https://www.linkedin.com/in/shruti-halle) · [Report an issue](../../issues)
-
-<img src="screenshots/1.png" alt="EduSense AI home page" width="900">
+[💼 LinkedIn](https://www.linkedin.com/in/shruti-halle) 
 
 </div>
 
@@ -65,9 +63,9 @@ EduSense AI is a simple web app for **teachers, tutors and parents**. It does th
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="screenshots/1.png" alt="Home"><br>**Home**: what the app does | <img src="screenshots/2.png" alt="Explore data"><br>**Explore Data**: overview of the data | <img src="screenshots/3.png" alt="Data charts"><br>**Charts**: attendance, study time and grades |
-| <img src="screenshots/4.png" alt="Grade distribution"><br>**Grade distribution**: at risk vs not at risk | <img src="screenshots/5.png" alt="Relationships"><br>**Relationships**: what moves with grades | <img src="screenshots/6.png" alt="Check a student"><br>**Check a Student**: enter a profile |
-| <img src="screenshots/7.png" alt="Risk result"><br>**Risk result**: gauge and main reasons | <img src="screenshots/8.png" alt="Study plan"><br>**Study Plan**: a friendly 4-week plan | <img src="screenshots/9.png" alt="Model performance"><br>**Model performance**: models compared |
+| <img src="1.png" alt="Home"><br>**Home**: what the app does | <img src="2.png" alt="Explore data"><br>**Explore Data**: overview of the data | <img src="3.png" alt="Data charts"><br>**Charts**: attendance, study time and grades |
+| <img src="4.png" alt="Grade distribution"><br>**Grade distribution**: at risk vs not at risk | <img src="5.png" alt="Relationships"><br>**Relationships**: what moves with grades | <img src="6.png" alt="Check a student"><br>**Check a Student**: enter a profile |
+| <img src="7.png" alt="Risk result"><br>**Risk result**: gauge and main reasons | <img src="8.png" alt="Study plan"><br>**Study Plan**: a friendly 4-week plan | <img src="9.png" alt="Model performance"><br>**Model performance**: models compared |
 
 ## ✨ Features
 
